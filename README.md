@@ -634,4 +634,3 @@ function App() {
 Here we are saying if an `initialMessage` has not been set, display the welcome component. If it has been set, display the Chatbot component. We give `initialMessage` a default value of `null`, mening the Welcome component shows.
 
 9. Update state when the user submits the initial form:
-
